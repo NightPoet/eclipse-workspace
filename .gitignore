@@ -31,3 +31,7 @@ target/
 .metadata/
 backup/
 itmayiedu_days27_springboot_demo01/
+/bin/
+/obj/
+/packages/
+
